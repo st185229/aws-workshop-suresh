@@ -1,0 +1,6 @@
+data:
+  mapUsers: |
+    - userarn:   
+      username: admin
+      groups:
+        - system:masters
